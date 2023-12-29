@@ -7,3 +7,5 @@ Network URL: https://mainnet.liquidlayer.network
 Chain ID: 25186
 Currency Symbol: LILA
 Block Explorer URL: https://scan.liquidlayer.network
+
+You can also visit our documentation at: https://docs.liquidlayer.network/
